@@ -1,7 +1,8 @@
 [12:21] Abdelhamid Chebel
 
 
-<h1 align="center" >une application web de classification des abstracts médicaux</h1><br>
+<h1 align="center" >WEB APPLICATION  FOR CLASIFICATION OF MEDICALES ABSTRACTS</h1><br>
+
  
 <img align="center" height= "300"  wieght = "300" src="https://github.com/Abdelhamid2c/ClaMeD-Classification-WebApp/blob/master/static/assets/ClaMeD%20-%20Brave%201_17_2024%2012_13_02%20PM.png" alt="screen Homepage" text-align: center>
 
